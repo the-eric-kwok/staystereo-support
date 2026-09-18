@@ -1,6 +1,8 @@
 # StayStereo 隐私政策 / Privacy Policy
 
-最后更新 / Last updated：2026-09-15
+最后更新：2026 年 9 月 15 日
+
+Last updated: Sep. 15, 2026
 
 ## 简体中文
 
