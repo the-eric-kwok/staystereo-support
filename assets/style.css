@@ -71,8 +71,9 @@ footer { display: flex; justify-content: space-between; gap: 16px; padding: 24px
 .home-page .hero { margin-bottom: 20px; }
 .home-intro { margin-bottom: 40px; }
 .trial-note { color: var(--muted); font-size: 14px; }
-.actions { display: flex; flex-wrap: wrap; align-items: center; gap: 16px; margin-top: 24px; }
-.button, .secondary-button { display: inline-block; padding: 10px 22px; border-radius: 10px; text-decoration: none; font-weight: 650; }
-.button { background: var(--gold); color: #262219; }
+.actions { display: flex; flex-wrap: wrap; align-items: center; gap: 16px 32px; margin-top: 24px; }
+.actions a { text-underline-offset: 5px; }
+.button { text-decoration: none; display: inline-block; padding: 12px 24px; border-radius: 10px; background: var(--gold); color: #262219; font-weight: 700; }
 .button:hover { background: #f0b758; color: #262219; }
-.secondary-button { border: 1px solid var(--line); color: var(--heading); background: var(--surface); }
+.privacy-link { text-decoration: underline; color: var(--teal); padding-block: 10px; }
+.privacy-link:hover { color: #92e1db; }
