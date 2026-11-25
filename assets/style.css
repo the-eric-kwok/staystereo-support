@@ -73,6 +73,8 @@ footer { display: flex; justify-content: space-between; gap: 16px; padding: 24px
 .purchase-note { color: var(--muted); font-size: 14px; }
 .actions { display: flex; flex-wrap: wrap; align-items: center; gap: 16px 32px; margin-top: 24px; }
 .actions a { text-underline-offset: 5px; }
+.mac-app-store-link { display: inline-block; }
+.mac-app-store-link img { display: block; width: auto; height: 40px; }
 .button { text-decoration: none; display: inline-block; padding: 12px 24px; border-radius: 10px; background: var(--gold); color: #262219; font-weight: 700; }
 .button:hover { background: #f0b758; color: #262219; }
 .privacy-link { text-decoration: underline; color: var(--teal); padding-block: 10px; }
